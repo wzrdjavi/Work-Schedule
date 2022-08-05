@@ -26,8 +26,11 @@ THEN the saved events persist
 
 # Usage
 . Schedule displays time from 8 - 5pm
+
 . Cuurent date is dispalyed at top of the page
+
 . Times Blocks are colored to indicate past present or future
+
 . Each time block is has a save button wherte users can save changes
 
 # Screen Shot
